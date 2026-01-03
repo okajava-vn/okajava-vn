@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi 👋
 
 PC:
 i5-12400F | RTX 3060 | 32GB RAM | 500GB SSD
