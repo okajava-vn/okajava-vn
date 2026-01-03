@@ -7,13 +7,13 @@ Giới thiệu:
 Thích làm người khác khó chịu và tìm cách sửa cho nó hoạt động đúng.
 
 **Kỹ năng:**
-- C++: 0%
-- Python: 0%
-- Java: 0%
-- C#: 0%
-- HTML: 0%
-- Reverse: 0%
-- Deobf: 0%
+- C++: 1%
+- Python: 2%
+- Java: 3%
+- C#: 4%
+- HTML: 5%
+- Reverse: 6%
+- Deobf: 7%
 - Bot: 100%
 
 **Tình trạng não:**
