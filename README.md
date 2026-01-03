@@ -21,10 +21,9 @@ Thích làm người khác khó chịu và tìm cách sửa cho nó hoạt độ
 - Ăn hại: 100%
 - Không não: 100%
 
-- 🔭 Hiện tại: không học gì hết, lười có tổ chức  
+- 🔭 Hiện tại: không học gì hết, lười 
 - 🌱 Đang học: chưa có gì  
 - 👯 Hợp tác: không có  
 - 🤔 Cần hỗ trợ: động lực  
-- 💬 Hỏi tôi về: mấy thứ tôi cũng không rành  
 - 😄 Vai trò: không có  
-- ⚡ Fun fact: sống nhờ ChatGPT
+- ⚡ Fun fact: sống nhờ ChatGPT,Dumb
