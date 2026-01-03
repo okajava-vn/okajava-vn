@@ -27,3 +27,6 @@ Thích làm người khác khó chịu và tìm cách sửa cho nó hoạt độ
 - 🤔 Cần hỗ trợ: động lực  
 - 😄 Vai trò: không có  
 - ⚡ Fun fact: sống nhờ ChatGPT,Dumb
+
+
+-> Discord : alvarezjva
